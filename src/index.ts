@@ -1,7 +1,12 @@
-import { clash } from "./cls"
-import { v2ray } from "./v2r"
+import { mkdir } from 'fs/promises'
+import path from 'path'
 
-await Promise.all([
-  v2ray(),
-  clash()
-])
+import { outputResults } from './output'
+import { getSubscribeUrls } from './sources'
+
+const nodeLists = await getSubscribeUrls()
+
+const outDir = path.resolve(process.cwd(), 'data')
+await mkdir(outDir, { recursive: true })
+
+await outputResults(nodeLists, outDir)
