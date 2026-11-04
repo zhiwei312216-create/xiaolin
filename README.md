@@ -15,4 +15,4 @@
 
 ```sh
 [https://raw.githubusercontent.com/wenxig/free-nodes-sub/refs/heads/main/data/sub.txt](https://raw.githubusercontent.com/zhiwei312216-create/xiaolin/refs/heads/main/data/sub.txt)
-更新于 2026-11-04 20:41:52
+更新于 2026-11-05 04:10:09
