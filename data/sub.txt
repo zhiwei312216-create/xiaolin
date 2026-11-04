@@ -46,12 +46,6 @@ ssr://YXBpLm1laXR1YW44OC5jb206MTQwNDg6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cG
 ssr://YXBpLm1laXR1YW44OC5jb206MjY3NzQ6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46WkdreE5WQlcvP29iZnNwYXJhbT1Nek5tTXpFek56SXpMbVJ2ZFhscGJpNWpiMjAlM0QmcmVtYXJrcz04SiUyQkh1dkNmaDdoVlV5MHhORE11TWpBdU56RXVOVFl0TmpBNU53JTNEJTNEJnByb3RvcGFyYW09
 ssr://YXBpLm1laXR1YW44OC5jb206Mjk3OTA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9vYmZzcGFyYW09Wmpka01qTTVNamt1Wkc5MWVXbHVMbU52YlElM0QlM0QmcmVtYXJrcz04SiUyQkh1dkNmaDdoVlV5MHhORE11TWpBdU56RXVOVFl0TmpFd01nJTNEJTNEJnByb3RvcGFyYW09
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BCTW-61.220.130.70-8084
-anytls://4bbfa33a-449a-4a50-8dfc-6d0de880f7bc@user02.godvpn.lol:62405?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE_IPV4
-anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE_IPV4%20(2)
-anytls://0324fbc29561@684616s4.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE_IPV4%20(3)
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?sni=n04.jinggai.online&type=ws&host=n04.jinggai.online&path=/nvl-n04-ws/e0577fe8fd7c8823fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20vless-TW-1...
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?sni=ty986gfazs.cainiaohub.xyz&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20vless-TW-1...%20%231
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?sni=www.amazon.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20vless-TW-1...
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?sni=ty986gfazs.cainiaohub.xyz&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%20%231
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowInsecure=1&sni=cm.g.doubleclick.net#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20trojan-TW-...
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?allowInsecure=1&sni=api.85s.me&type=ws&host=api.85s.me&path=/#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?sni=ty986gfazs.cainiaohub.xyz&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%20%232
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?allowInsecure=1&sni=api.85s.me#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%20%231
