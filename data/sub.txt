@@ -53,7 +53,7 @@ ssr://YXBpLm1laXR1YW44OC5jb206MTQwNDg6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cG
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BCTW-61.220.130.70-7332
 anytls://0324fbc29561@a54ge.df6h451rh.xin:443?insecure=1&sni=docs.microsoft.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE_IPV4
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?sni=ty986gfazs.cainiaohub.xyz&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20vless-TW-1...
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr2.tube-cat.com:59188?allowInsecure=1&sni=r.tw3.cat.bilibili.com#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C2.9MB/s
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr1.tube-cat.com:28478?allowInsecure=1&sni=r.tw2.cat.bilibili.com#%F0%9F%87%B9%F0%9F%87%BCTW_3%7C1.3MB/s
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr1.tube-cat.com:28478?allowInsecure=1&sni=r.tw2.cat.bilibili.com#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20trojan-TW-...
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr2.tube-cat.com:59188?allowInsecure=1&sni=r.tw3.cat.bilibili.com#%F0%9F%87%B9%F0%9F%87%BC%5Bwww.v2nodes.com%5D%20trojan-TW-...%20%231
+vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@36.235.60.105:443?sni=www.cht.com.tw&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%20%231
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?allowInsecure=0&sni=swdist.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#TW_speednode_0026
-vless://7a87d516-058e-495a-bc09-e527178639b4@jp.075661.xyz:46935?&security=reality&flow=xtls-rprx-vision&pbk=MmzrzoNr4muOhgi1ZAmzHbuciiKTWeu3hoi66Rp8Ai4&sid=e582410c5e3ccd68&fp=firefox&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN
